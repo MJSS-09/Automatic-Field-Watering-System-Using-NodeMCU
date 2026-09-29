@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌾 Automatic Field Watering System
-### IoT-Enabled Automated Irrigation using NodeMCU ESP8266
+### IoT-Enabled Automated Irrigation using NodeMCU (ESP8266)
 
 *A low-cost embedded irrigation controller that senses soil moisture continuously, drives a DC water pump automatically through a motor driver, and streams live readings to the Arduino IDE Serial Monitor.*
 
