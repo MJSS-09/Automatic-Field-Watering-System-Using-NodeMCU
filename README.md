@@ -165,5 +165,5 @@ If you're deploying this with a different probe or soil type, calibrate the thre
 ## 👤 Author
 
 **M . Jayantha Siva Srinivas**
-B.Tech | Electronics and Communication Engineering
+B.Tech | Electronics and Communication Engineering |
 ESSCI-Certified Embedded Fullstack & IoT Analyst , SRM University(AP)
